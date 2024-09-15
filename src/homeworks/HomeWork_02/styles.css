@@ -11,7 +11,7 @@
     font-size: 30px;
     margin: 50px 200px;
   }
-  
+
   .card-container {
     display: flex;
     flex-direction: column;
@@ -22,14 +22,4 @@
     border-radius: 6px;
     padding: 40px;
     margin: 50px;
-  }
-  
-  .card-info {
-    font-size: 24px;
-  }
-  
-  .avatar {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
   }

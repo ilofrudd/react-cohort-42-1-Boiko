@@ -12,7 +12,8 @@ function App() {
   return (
     <div className="App">
       {/* 4 шаг - возвращаем компонент Lesson_02 из компонента App */}
-      <HomeWork_02/>
+      <Lesson_02 />
+      <HomeWork_02 />
     </div>
   );
 }
